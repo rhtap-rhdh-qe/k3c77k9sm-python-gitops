@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: k3c77k9sm-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/k3c77k9sm-python
